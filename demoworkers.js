@@ -52,4 +52,4 @@ function timedCount() {
 		 getLocationUpdate();
 		 
 		 
-//timedCount();
+timedCount();
